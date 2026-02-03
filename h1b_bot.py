@@ -5,12 +5,10 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 import os
 
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-
-
 llm = ChatGoogleGenerativeAI(
-    model="gemini-3-flash-preview",
-    temperature=0.1
+    model="models/gemini-1.5-flash",
+    temperature=0.1,
+    google_api_key=os.environ.get("GOOGLE_API_KEY")
 )
 from langchain.chains import RetrievalQA
 from langchain.vectorstores import FAISS

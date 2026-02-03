@@ -1,0 +1,126 @@
+The H-1B visa program allows U.S. employers to hire highly skilled foreign professionals for jobs that require specialized knowledge and at least a bachelor’s degree. Common fields include computer science, engineering, mathematics, accounting, economics, and health or life sciences.
+
+H-1B status is initially granted for up to three years and can usually be extended to a maximum of six years. Many employers use the H-1B visa as a pathway toward employment-based permanent residence.
+
+Each fiscal year, the H-1B program has a cap of 65,000 regular visas and an additional 20,000 visas for candidates with U.S. master’s or higher degrees. When applications exceed this limit, USCIS conducts a lottery.
+
+Since FY2021, H-1B registrations have been submitted electronically during a short window in March. Employers must register beneficiaries before filing full petitions.
+
+From FY2024 onward, USCIS introduced a beneficiary-centric lottery system. Each beneficiary can only appear once in the lottery, regardless of how many employers register them, reducing duplicate or collusive filings.
+
+In FY2025, H-1B registrations dropped significantly compared to FY2024 due to the beneficiary-centric lottery reforms. Selection rates improved slightly because duplicate registrations declined.
+
+H-1B registration volumes are influenced by economic conditions. Growth in technology sectors such as artificial intelligence, cloud computing, and life sciences increases demand, while hiring slowdowns reduce registrations.
+
+Only U.S. employers can file H-1B petitions. Employers must prove the job is a specialty occupation, pay at least the prevailing wage, and maintain an employer–employee relationship with the worker.
+
+Employers must file a Labor Condition Application (LCA) with the Department of Labor. The LCA confirms wage levels, work conditions, notice requirements, and location accuracy.
+
+Failure to comply with LCA requirements can result in penalties, back pay orders, and possible petition denials. Fraud or misrepresentation can lead to serious enforcement actions.
+
+Historically, H-1B approval rates exceeded 95 percent before 2017. Approval rates dropped during 2018–2020 due to stricter interpretations of specialty occupation rules.
+
+Following court decisions and policy changes, H-1B approval rates recovered. In FY2023 and FY2024, approval rates were around 94 to 96 percent, with denial rates near 3 to 4 percent.
+
+Requests for Evidence (RFEs) became very common during 2018–2020, often exceeding 60 percent of petitions. RFEs have since declined to about 20 percent by FY2023.
+
+Common reasons for RFEs include unclear job descriptions, weak proof of employer–employee control, and wage levels that do not match job complexity.
+
+Large technology companies and global IT consulting firms account for a significant share of H-1B filings. These employers regularly sponsor skilled workers for technical roles.
+
+STEM occupations dominate H-1B petitions. Common roles include software developers, data scientists, computer systems analysts, information security analysts, and engineers.
+
+Higher wages and accurate alignment between job duties, degree field, and wage level improve the likelihood of H-1B approval and reduce RFE risk.
+
+H-1B employment is concentrated in major technology regions such as California’s Bay Area, Seattle, New York–New Jersey, Texas, Massachusetts, and Illinois.
+
+Recent policy changes include updated USCIS forms, higher filing fees starting in April 2024, and limited stateside visa renewal pilots for certain H-1B holders.
+
+Demand for H-1B visas is expected to remain high beyond FY2025, especially in AI, cybersecurity, cloud computing, advanced manufacturing, and life sciences.
+
+Employers can improve H-1B success by maintaining accurate beneficiary identity records, aligning wages with job duties, documenting worksite control, and planning for increased fees.
+
+Even with improved lottery integrity, H-1B registrations continue to exceed the statutory cap, making the program highly competitive.
+
+Overall, H-1B outcomes increasingly depend on petition quality, compliance with labor regulations, and clear documentation rather than policy uncertainty.
+
+In FY 2025, Amazon had the highest number of approved H-1B petitions for initial employment, with 4,644 approvals. Meta Platforms, Microsoft, and Google followed, making this the first time these four large U.S. technology companies held the top four positions for new H-1B approvals.
+
+The high number of H-1B approvals among large technology companies in FY 2025 is linked to increased hiring in artificial intelligence and related technologies. These companies invested approximately 380 billion dollars in AI and related capital expenditures during the year.
+
+In FY 2025, Indian-based companies accounted for a much smaller share of approved H-1B petitions for initial employment. Only three Indian-based firms were among the top 25 employers, marking a significant shift from previous years.
+
+The total number of H-1B petitions approved for initial employment by the top seven Indian-based companies fell sharply in FY 2025. Their approvals dropped by about 70 percent compared to FY 2015 and were 37 percent lower than FY 2024.
+
+H-1B petitions for initial employment are generally subject to the annual cap of 65,000 visas, with an additional exemption of 20,000 visas for individuals holding a U.S. master’s degree or higher.
+
+H-1B visas are often the primary way for highly skilled foreign nationals, including international students, to work long term in the United States. The program also provides a pathway toward permanent residence and eventual U.S. citizenship.
+
+International students make up a large share of advanced-degree talent in the United States. They account for about 71 percent of full-time graduate students in computer and information sciences and 73 percent in electrical and computer engineering programs.
+
+Nearly two-thirds of recent H-1B visa holders earned a master’s degree or higher. Without H-1B status, many highly skilled foreign workers would need to leave the United States and work in countries such as India, China, or Canada.
+
+Approximately 700,000 people currently live and work in the United States under H-1B status. This highlights the importance of the program for maintaining a skilled workforce.
+
+The main limitation of the H-1B program is the low annual cap of 85,000 visas, which has been reached every year since FY 2004. This represents only about 0.05 percent of the total U.S. labor force.
+
+In FY 2025, around 442,000 unique beneficiaries were entered into the H-1B registration process. Due to the annual cap, more than 300,000 eligible beneficiaries were not selected and could not file petitions.
+
+Proposed regulatory changes may raise prevailing wage requirements and restrict eligibility for H-1B visas. These changes could disadvantage international students and reduce selection chances in future H-1B lotteries.
+
+Restrictive high-skilled immigration policies introduced during Donald Trump’s first term continue to influence later policy discussions. These policies may lead to higher denial rates and increased costs for employers.
+
+A proposed fee of 100,000 dollars for new H-1B visa holders entering from outside the United States could significantly increase the cost of hiring foreign talent. Similar restrictions in the past did not result in increased employment for U.S. workers, according to economic analysis.
+
+
+California, Texas, and New York are the top states for prevailing wage determinations and permanent labor certifications. These states consistently receive the highest number of employment-based visa-related wage approvals, making them strong locations for H1B and PERM visa opportunities.
+
+Texas shows strong demand for temporary H1B workers, followed by Florida, California, and Illinois. This indicates that these states have a higher number of employers filing visa petitions for specialty occupations.
+
+Employers located in California received the highest number of prevailing wage determinations in recent years. This highlights California as one of the most active regions for employment-based visa processing.
+
+Computer-related occupations dominate visa wage determinations and labor certifications. Software Developers, Computer Systems Analysts, and IT Managers account for a large share of approved visa petitions.
+
+Software Developer roles, especially Software Developers (Applications), represent one of the most requested job categories for visa applications. These roles generally show higher approval trends compared to non-technical professions.
+
+High-skilled technical occupations usually have better visa approval outcomes than lower-skilled or non-technical jobs. Roles such as landscaping and groundskeeping typically receive lower wages and weaker approval trends.
+
+Financial Managers and Computer and Information Systems Managers receive some of the highest average wages among visa-related occupations. These roles often earn more than seventy dollars per hour and show strong approval patterns.
+
+Lower-skilled occupations tend to have lower offered wages and weaker visa outcomes. These roles are less competitive in the employment-based visa process compared to professional and technical positions.
+
+Large multinational companies such as Google, Microsoft, Amazon, Deloitte, Oracle, Apple, and Intel frequently file visa-related wage determinations and labor certification applications. These employers generally demonstrate higher success rates due to consistent demand for skilled workers.
+
+Technology and consulting firms dominate employer demand for employment-based visas. They primarily hire for software engineering, data science, analytics, and IT management roles.
+
+The Professional, Scientific, and Technical Services industry accounts for nearly half of all permanent labor certifications. This makes it the strongest industry sector for employment-based visa approvals.
+
+Manufacturing is the second most active industry for permanent labor certifications, followed by the Information and Finance sectors. These industries regularly sponsor foreign workers for specialized roles.
+
+Retail and trade industries participate less in permanent labor certification programs. Visa opportunities in these sectors are comparatively limited.
+
+Workers from India and China represent the majority of approved permanent labor certifications. Together, they account for a large portion of employment-based visa approvals.
+
+India alone contributes more than half of all approved permanent labor certifications. This makes India the most prominent source country for employment-based visas.
+
+China and South Korea follow India in terms of approved labor certifications. However, their approval numbers are significantly lower compared to Indian applicants.
+
+In FY 2016, data from the Office of Foreign Labor Certification showed an increased demand for H-1B workers in specialized and skilled occupations compared to FY 2015. The number of H-1B positions requested increased by about 3 percent, and the number of positions certified increased by more than 2 percent.
+
+Information technology related roles continued to dominate H-1B certifications in FY 2016. The top three occupations were all IT-related, highlighting the strong demand for technical professionals.
+
+Computer Systems Analysts were the most certified H-1B occupation in FY 2016. This role alone accounted for nearly 24 percent of all certified H-1B positions, with approximately 285,000 approved positions, which was almost equal to the combined total of the next two top occupations.
+
+Deloitte Consulting LLP was the top employer for H-1B certifications in FY 2016. The company had more than 163,000 H-1B positions certified, representing nearly 14 percent of all H-1B certifications during the year.
+
+Most of the top H-1B employers primarily hired workers for computer-related occupations. These included roles such as Computer Systems Analysts and Computer Programmers, indicating a strong preference for technical expertise.
+
+California was the leading work state for five of the top ten H-1B employers in FY 2016. Pennsylvania and New Jersey were also among the most common work locations, along with California.
+
+In FY 2016, there were 23 states that each issued more than 5,000 certified H-1B Labor Condition Applications. This shows that H-1B demand was concentrated in specific regions across the United States.
+
+California had the highest number of certified H-1B Labor Condition Applications in FY 2016, accounting for about 20 percent of the national total with more than 105,000 certifications.
+
+Texas, New York, New Jersey, and Pennsylvania followed California as the top states for certified H-1B Labor Condition Applications. Together, these five states accounted for nearly half of all certified H-1B applications.
+
+Most of the top states experienced growth in certified H-1B applications compared to FY 2015. California saw a 3 percent increase, Pennsylvania increased by 5.5 percent, New York grew by 7 percent, and Texas increased by 9 percent. New Jersey was the only top state that experienced a slight decrease.

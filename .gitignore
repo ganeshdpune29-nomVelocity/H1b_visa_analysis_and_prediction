@@ -1,0 +1,7 @@
+*.csv
+h1b_ui_env/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+.env

@@ -6,7 +6,7 @@ from langchain_core.output_parsers import StrOutputParser
 import os
 
 llm = ChatGoogleGenerativeAI(
-    model="models/gemini-1.5-flash",
+    model="gemini-3-flash-preview",
     temperature=0.1,
     google_api_key=os.environ.get("GOOGLE_API_KEY")
 )
